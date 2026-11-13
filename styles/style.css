@@ -1,0 +1,62 @@
+/* This is a note */
+
+html {
+  font-size: 10px;
+  font-family: "Schoolbell", system-ui;
+  font-weight: 400;
+  font-style: normal;
+  background-color: #c68eed;
+}
+
+body {
+  width: 600px;
+  margin: auto;
+  margin-top: 20px;
+  margin-bottom: 20px;
+  background-color: #a15fcf;
+  padding: 0 20px 20px 20px;
+  border: 5px solid black;
+}
+
+h1 {
+  font-family: "Palette Mosaic", system-ui;
+  font-weight: 400;
+  font-style: normal;
+  font-size: 70px;
+  text-align: left;
+
+  margin: 0;
+  padding: 20px 0;
+  color: #f5a81c;
+  text-shadow: 3px 3px 1px black;
+}
+
+h2 {
+  font-size: 25px;
+}
+
+h3 {
+  font-size: 20px;
+}
+
+p,
+li {
+  font-size: 16px;
+  line-height: 2;
+  letter-spacing: 1px;
+}
+
+img {
+  display: block;
+  margin: 0 auto;
+  max-width: 100%;
+}
+
+#still {
+  cursor: pointer;
+}
+
+.done {
+  color: darkseagreen;
+  text-decoration: line-through solid;
+}

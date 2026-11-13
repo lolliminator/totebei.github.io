@@ -1,0 +1,24 @@
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Palette+Mosaic&display=swap" rel="stylesheet">
+
+
+
+.palette-mosaic-regular {
+  font-family: "Palette Mosaic", system-ui;
+  font-weight: 400;
+  font-style: normal;
+}
+
+
+
+.palette-mosaic-regular {
+  font-family: "Palette Mosaic", system-ui;
+  font-weight: 400;
+  font-style: normal;
+}
+.schoolbell-regular {
+  font-family: "Schoolbell", cursive;
+  font-weight: 400;
+  font-style: normal;
+}
